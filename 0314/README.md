@@ -1,9 +1,13 @@
 0314 필기 내용
 
 / 	: root directory
+
 ~ 	: home directory
+
 . 	: self
+
 .. 	: parent
+
 
 경로의 종류
 1. 절대 경로 : cd /home/jang/software
