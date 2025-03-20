@@ -1,8 +1,9 @@
 <h2 style="color:ff6347;">3학년 1학기 시스템 프로그래밍 필기 및 수업내용 저장소입니다.📖</h2>
 
 학기 목표 : 실제 리눅스의 명령을 구현하기<br>
-<div align="center">
-![교재 사진](https://github.com/user-attachments/assets/0075fb4e-d2fa-436b-a512-c81f34fffd74) <br></div>
-<hr>
+
+  <img src="[https://example.com/your-image.png](https://github.com/user-attachments/assets/0075fb4e-d2fa-436b-a512-c81f34fffd74)" alt="이미지 설명" width="500"/>
+</p>
+
 0307 : 리눅스 설치 및 기본 개념<br>
 0314 : 디렉토리와 파일의 생성, tree를 사용한 구조의 이해
