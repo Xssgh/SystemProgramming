@@ -2,8 +2,8 @@
 
 학기 목표 : 실제 리눅스의 명령을 구현하기<br>
 
-  <img src="(https://github.com/user-attachments/assets/0075fb4e-d2fa-436b-a512-c81f34fffd74)" alt="이미지 설명" width="500"/>
-</p>
+![교재](https://github.com/user-attachments/assets/664176b6-1789-4e6a-9982-bbf8b6998937)
+
 
 0307 : 리눅스 설치 및 기본 개념<br>
 0314 : 디렉토리와 파일의 생성, tree를 사용한 구조의 이해
