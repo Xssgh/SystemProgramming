@@ -24,10 +24,8 @@
 -사용자로부터 명령어를 입력받아 해석하여 수행해주는 해석기<br>
 <hr>
 <h4>리눅스 설치해보기</h4><br>
-1. Microsoft Store에서 Ubuntu, Windows Terminal 다운로드<br>
+Microsoft Store에서 Ubuntu, Windows Terminal 다운로드<br>
 
 ![Image](https://github.com/user-attachments/assets/6601c125-7707-4a79-bdb0-1375a230e032)
 ![Image](https://github.com/user-attachments/assets/664176b6-1789-4e6a-9982-bbf8b6998937) <br>
-
-2. 
 
