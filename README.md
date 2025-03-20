@@ -4,5 +4,5 @@
 
 ![Image](https://github.com/user-attachments/assets/0075fb4e-d2fa-436b-a512-c81f34fffd74) <br>
 <hr>
-0307 : 리눅스를 컴퓨터에 설치<br>
+0307 : 리눅스 설치 및 기본 개념<br>
 0314 : 디렉토리와 파일의 생성, tree를 사용한 구조의 이해
