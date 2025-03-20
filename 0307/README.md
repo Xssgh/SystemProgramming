@@ -22,3 +22,8 @@
 4. 쉘<br>
 -사용자와 운영체제 사이의 인터페이스<br>
 -사용자로부터 명령어를 입력받아 해석하여 수행해주는 해석기<br>
+
+<h4>리눅스 설치해보기</h4><br>
+Microsoft Store에서 Ubuntu, Windows Terminal 다운로드<br>
+![Image](https://github.com/user-attachments/assets/6a501bd9-0f6c-4a97-840e-4963065dec49) <br>
+![Image](https://github.com/user-attachments/assets/d5522780-1333-47f2-b445-ab96bf563f44) <br>
