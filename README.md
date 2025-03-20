@@ -2,7 +2,7 @@
 
 학기 목표 : 실제 리눅스의 명령을 구현하기<br>
 
-![교재](https://github.com/user-attachments/assets/664176b6-1789-4e6a-9982-bbf8b6998937)
+![교재](https://github.com/user-attachments/assets/51ccfb73-f435-4be4-8ae7-489b6860570d)
 
 
 0307 : 리눅스 설치 및 기본 개념<br>
