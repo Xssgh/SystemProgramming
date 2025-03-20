@@ -25,5 +25,6 @@
 
 <h4>리눅스 설치해보기</h4><br>
 Microsoft Store에서 Ubuntu, Windows Terminal 다운로드<br>
-![Image](https://github.com/user-attachments/assets/6a501bd9-0f6c-4a97-840e-4963065dec49)
+
+![Image](https://github.com/user-attachments/assets/6601c125-7707-4a79-bdb0-1375a230e032)
 
