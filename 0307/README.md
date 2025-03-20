@@ -27,4 +27,5 @@
 Microsoft Store에서 Ubuntu, Windows Terminal 다운로드<br>
 
 ![Image](https://github.com/user-attachments/assets/6601c125-7707-4a79-bdb0-1375a230e032)
+![Image](https://github.com/user-attachments/assets/664176b6-1789-4e6a-9982-bbf8b6998937)
 
