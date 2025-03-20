@@ -2,7 +2,7 @@
 
 학기 목표 : 실제 리눅스의 명령을 구현하기<br>
 
-  <img src="[https://example.com/your-image.png](https://github.com/user-attachments/assets/0075fb4e-d2fa-436b-a512-c81f34fffd74)" alt="이미지 설명" width="500"/>
+  <img src="(https://github.com/user-attachments/assets/0075fb4e-d2fa-436b-a512-c81f34fffd74)" alt="이미지 설명" width="500"/>
 </p>
 
 0307 : 리눅스 설치 및 기본 개념<br>
