@@ -10,3 +10,4 @@
 - 0314 : [디렉토리와 파일의 생성, tree를 사용한 구조의 이해](https://github.com/Xssgh/SystemProgramming/blob/main/0314/README.md)
 - 0321 : [각종 명령어와 파일을 생성하고 실행시키기](https://github.com/Xssgh/SystemProgramming/blob/main/0321/README.md)
 - 0328 : [프로그래밍의 기본 개념 복습과 4chapter 완료](https://github.com/Xssgh/SystemProgramming/blob/main/0328/README.md)
+- 0404 : [생성형 AI의 기본](https://github.com/Xssgh/SystemProgramming/blob/main/0404/README.md)
