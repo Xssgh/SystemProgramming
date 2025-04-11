@@ -11,3 +11,4 @@
 - 0321 : [각종 명령어와 파일을 생성하고 실행시키기](https://github.com/Xssgh/SystemProgramming/blob/main/0321/README.md)
 - 0328 : [프로그래밍의 기본 개념 복습과 4chapter 완료](https://github.com/Xssgh/SystemProgramming/blob/main/0328/README.md)
 - 0404 : [생성형 AI의 기본](https://github.com/Xssgh/SystemProgramming/blob/main/0404/README.md)
+- 0411 : [쉘과 vi](https://github.com/Xssgh/SystemProgramming/tree/main/0411)
