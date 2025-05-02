@@ -20,6 +20,8 @@
 | 📅 03.28 | 📖 프로그래밍 기초 복습 및 Chapter 4 완료 | [바로가기 🔗](https://github.com/Xssgh/SystemProgramming/blob/main/0328/README.md) |
 | 📅 04.04 | 🤖 생성형 AI 개념 학습 | [바로가기 🔗](https://github.com/Xssgh/SystemProgramming/blob/main/0404/README.md) |
 | 📅 04.11 | 🖥 쉘(Shell)과 vi 에디터 실습 | [바로가기 🔗](https://github.com/Xssgh/SystemProgramming/tree/main/0411) |
+| 📅 04.18 | 🖥 중간고사 전 복습 | [바로가기 🔗](https://github.com/Xssgh/SystemProgramming/tree/main/0418) |
+
 
 ---
 
