@@ -21,7 +21,7 @@
 | 📅 04.04 | 🤖 생성형 AI 개념 학습 | [바로가기 🔗](https://github.com/Xssgh/SystemProgramming/blob/main/0404/README.md) |
 | 📅 04.11 | 🖥 쉘(Shell)과 vi 에디터 실습 | [바로가기 🔗](https://github.com/Xssgh/SystemProgramming/tree/main/0411) |
 | 📅 04.18 | 🖥 중간고사 전 복습 | [바로가기 🔗](https://github.com/Xssgh/SystemProgramming/tree/main/0418) |
-| 📅 05.02 | 📖 중간고사 전 복습 | [바로가기 🔗](https://github.com/Xssgh/SystemProgramming/blob/main/0502/README.md) |
+| 📅 05.02 | 📖 Linux 시스템 프로그래밍: 파일 입출력 및 시스템 호출 정리 | [바로가기 🔗](https://github.com/Xssgh/SystemProgramming/blob/main/0502/README.md) |
 
 
 ---
