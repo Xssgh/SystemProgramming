@@ -12,16 +12,21 @@
 
 ## 🗂 강의 자료 및 정리 링크  
 
-| 날짜 | 주제 | 링크 |
-|------|------|------|
-| 📅 03.07 | 🧰 리눅스 설치 및 기본 개념 | [바로가기 🔗](https://github.com/Xssgh/SystemProgramming/tree/main/0307) |
-| 📅 03.14 | 📂 디렉토리와 파일 생성, `tree` 명령어 구조 이해 | [바로가기 🔗](https://github.com/Xssgh/SystemProgramming/blob/main/0314/README.md) |
-| 📅 03.21 | ⚙️ 명령어 실습 및 파일 생성·실행 | [바로가기 🔗](https://github.com/Xssgh/SystemProgramming/blob/main/0321/README.md) |
-| 📅 03.28 | 📖 프로그래밍 기초 복습 및 Chapter 4 완료 | [바로가기 🔗](https://github.com/Xssgh/SystemProgramming/blob/main/0328/README.md) |
-| 📅 04.04 | 🤖 생성형 AI 개념 학습 | [바로가기 🔗](https://github.com/Xssgh/SystemProgramming/blob/main/0404/README.md) |
-| 📅 04.11 | 🖥 쉘(Shell)과 vi 에디터 실습 | [바로가기 🔗](https://github.com/Xssgh/SystemProgramming/tree/main/0411) |
-| 📅 04.18 | 🖥 중간고사 전 복습 | [바로가기 🔗](https://github.com/Xssgh/SystemProgramming/tree/main/0418) |
-| 📅 05.02 | 📖 Linux 시스템 프로그래밍: 파일 입출력 및 시스템 호출 정리 | [바로가기 🔗](https://github.com/Xssgh/SystemProgramming/blob/main/0502/README.md) |
+| 날짜       | 주제                                                                 | 링크                                                                                      |
+|------------|----------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+| 📅 03.07   | 🧰 리눅스 설치 및 기본 개념                                          | [바로가기 🔗](https://github.com/Xssgh/SystemProgramming/tree/main/0307)                  |
+| 📅 03.14   | 📂 디렉토리와 파일 생성, `tree` 명령어 구조 이해                     | [바로가기 🔗](https://github.com/Xssgh/SystemProgramming/blob/main/0314/README.md)        |
+| 📅 03.21   | ⚙️ 명령어 실습 및 파일 생성·실행                                     | [바로가기 🔗](https://github.com/Xssgh/SystemProgramming/blob/main/0321/README.md)        |
+| 📅 03.28   | 📖 프로그래밍 기초 복습 및 Chapter 4 완료                            | [바로가기 🔗](https://github.com/Xssgh/SystemProgramming/blob/main/0328/README.md)        |
+| 📅 04.04   | 🤖 생성형 AI 개념 학습                                                | [바로가기 🔗](https://github.com/Xssgh/SystemProgramming/blob/main/0404/README.md)        |
+| 📅 04.11   | 🖥 쉘(Shell)과 vi 에디터 실습                                         | [바로가기 🔗](https://github.com/Xssgh/SystemProgramming/tree/main/0411)                  |
+| 📅 04.18   | 📚 중간고사 전 복습                                                  | [바로가기 🔗](https://github.com/Xssgh/SystemProgramming/tree/main/0418)                  |
+| 📅 05.02   | 📖 Linux 시스템 프로그래밍: 파일 입출력 및 시스템 호출 정리           | [바로가기 🔗](https://github.com/Xssgh/SystemProgramming/blob/main/0502/README.md)        |
+| 📅 05.09   | 📁 파일 디스크립터와 표준 입출력 개념 학습                           | [바로가기 🔗](https://github.com/Xssgh/SystemProgramming/blob/main/0509/README.md)        |
+| 📅 05.16   | 🧪 시스템 콜 실습 및 프로세스 관리 기초                              | [바로가기 🔗](https://github.com/Xssgh/SystemProgramming/blob/main/0516/README.md)        |
+| 📅 05.23   | 🧵 프로세스 생성 및 병렬 처리 개념 학습                              | [바로가기 🔗](https://github.com/Xssgh/SystemProgramming/blob/main/0523/README.md)        |
+| 📅 05.30   | 🧩 시그널 처리 및 프로세스 간 통신(IPC) 기초                         | [바로가기 🔗](https://github.com/Xssgh/SystemProgramming/blob/main/0530/README.md)        |
+
 
 
 ---
